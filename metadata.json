@@ -1,0 +1,6 @@
+{
+  "name": "OptionBaaz TSE - پلتفرم تحلیل اختیار معامله بورس تهران",
+  "description": "سامانه تخصصی تحلیل، دیده‌بان و زنجیره قراردادهای اختیار معامله بورس تهران (TSETMC)، موتور بلک-شولز، محاسبه یونانی‌ها و شبیه‌ساز استراتژی‌های Payoff",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
